@@ -3,7 +3,9 @@
 - 🌱 Atualmente estou aprendendo HTML/CSS.
 - 💞️ Estou procurando colaborar em projetos de desenvolvimento Web.
 - 📫 Entre em contato através do meu email: carolinealmeida98@gmail.com.
+  
    ---------------------------
+  
 - 👋 Hi, I’m @CarolSAAlmeida.
 - 👀 I’m interested in UI/UX DESIGN.
 - 🌱 I’m currently learning HTML/CSS.
